@@ -1,6 +1,6 @@
 # Litmus-RT Patch
 
-This patch was generating using LITMUS-RT [source code](), comparing its
+This patch was generated using LITMUS-RT [source code](), comparing its
 most recent version to its kernel base (v4.9):
 
 ```
@@ -34,8 +34,8 @@ Date:   Thu May 25 15:45:05 2017 +0200
 
 ## How big is this patch?
 
-We can see from the patch that 105 files are modified by the patch. From
-the command wc we get the total size:
+We can see that 105 files are modified by the patch. With the command wc we
+get the total size:
 
 ```
 $ wc litmus.patch 
